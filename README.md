@@ -29,5 +29,5 @@ python create_database.py
 Query the Chroma DB.
 
 ```python
-python query_data.py ""
+python query_data.py "[ASK YOUR QUESTION]"
 ```
