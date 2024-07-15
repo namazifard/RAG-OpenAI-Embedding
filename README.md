@@ -1,4 +1,4 @@
-# RAG System Using OpenAI Embedding and Chat
+# RAG System Using OpenAI Embedding and OpenAI Chat
 
 ## Install dependencies
 
@@ -31,5 +31,3 @@ Query the Chroma DB.
 ```python
 python query_data.py ""
 ```
-
-> You'll also need to set up an OpenAI account (and set the OpenAI key in your environment variable) for this to work.
